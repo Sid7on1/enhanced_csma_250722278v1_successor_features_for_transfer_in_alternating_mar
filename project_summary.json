@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.MA_2507.22278v1_Successor_Features_for_Transfer_in_Alternating_Mar",
+  "project_type": "agent",
+  "completion_time": "2025-08-03T21:12:51.753667",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.MA_2507.22278v1_Successor_Features_for_Transfer_in_Alternating_Mar"
+}
